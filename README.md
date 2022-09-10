@@ -41,5 +41,3 @@ Always in constant learning to be a game developer in the future.
 ![](https://github-readme-stats.vercel.app/api?username=amauriiDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amauriiDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amauriiDev&theme=rogue&hide_border=true)<br/><br/>
-
-![snake gif](https://github.com/amauriiDev/amauriiDev/blob/output/github-contribution-grid-snake.svg)
